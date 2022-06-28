@@ -1,0 +1,1 @@
+The starter code was needed to refactored. It was first cchanged to appear neater. Then aspects with the same properties were combined into 1 block of code for every grouping. These started with the benefits and ended with "h2".
